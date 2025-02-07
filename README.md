@@ -1,3 +1,7 @@
+##  Projeto Spotify Clone - Imersão Front-End Alura 
+
+Este projeto foi desenvolvido durante o imersão front-end da alura, onde clonamos o layout do Spotify com o uso do react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Spotify-Alura"  
+
+
+## Contribuições 
+Sinta-se à vontade para abrir um Pull Request ou relatar problemas na aba Issues. 💡
